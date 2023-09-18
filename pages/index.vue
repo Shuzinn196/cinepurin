@@ -20,6 +20,8 @@ const pictures = [
 const handlePaneClick = (): void => {
     console.log("Click!")
     console.log("Click!")
+    console.log("Click!")
+
 }
 </script>
 
